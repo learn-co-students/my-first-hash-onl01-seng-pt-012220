@@ -1,3 +1,35 @@
---color
+irb
+my_hash = ["xav", "'person"]
+  puts [0] - "xav"
+  puts [1]
+my_hash = ["xav","person"]
+
+  end
+  
+>shipping_manifest = ["whale bone","porcelain vaces","oil paintings"]
+>shipping_manifest = {"whale bone" => 5, "porcelain vaces" => 2,"oil paintings" => 3}
+
+  end
+  
+hash = "key1"
+hash = "key2"
+hash = "key3"
+
+  end
+  
+>shipping_manifest["muskets", gun powder]
+  
+  end
+  
+  > shipping_manifest = {"whale bone corsets" => 5
+"porcelain vases" => 2
+"oil paintings" => 3
+"muskets" => 2
+"gun powder" => 4}
+
+end
+
+
+  --color
 --require spec_helper
 --fail-fast
